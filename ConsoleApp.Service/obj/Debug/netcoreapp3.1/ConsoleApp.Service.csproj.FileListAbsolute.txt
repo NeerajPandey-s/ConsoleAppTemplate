@@ -1,0 +1,15 @@
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\bin\Debug\netcoreapp3.1\ConsoleApp.Service.deps.json
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\bin\Debug\netcoreapp3.1\ConsoleApp.Service.dll
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\bin\Debug\netcoreapp3.1\ConsoleApp.Service.pdb
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\bin\Debug\netcoreapp3.1\ConsoleApp.Common.dll
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\bin\Debug\netcoreapp3.1\ConsoleApp.Repository.dll
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\bin\Debug\netcoreapp3.1\ConsoleApp.Common.pdb
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\bin\Debug\netcoreapp3.1\ConsoleApp.Repository.pdb
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\obj\Debug\netcoreapp3.1\ConsoleApp.Service.csproj.AssemblyReference.cache
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\obj\Debug\netcoreapp3.1\ConsoleApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\obj\Debug\netcoreapp3.1\ConsoleApp.Service.AssemblyInfoInputs.cache
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\obj\Debug\netcoreapp3.1\ConsoleApp.Service.AssemblyInfo.cs
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\obj\Debug\netcoreapp3.1\ConsoleApp.Service.csproj.CoreCompileInputs.cache
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\obj\Debug\netcoreapp3.1\ConsoleApp.Service.csproj.CopyComplete
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\obj\Debug\netcoreapp3.1\ConsoleApp.Service.dll
+D:\Therapybrands\SharenoteConsoleAppTemplate\ConsoleApp.Service\obj\Debug\netcoreapp3.1\ConsoleApp.Service.pdb

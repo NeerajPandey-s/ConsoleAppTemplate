@@ -1,0 +1,18 @@
+{
+    "$schema": "https://json.schemastore.org/template",
+    "author": "Neeraj Pandey",
+    "classifications": [
+        "Console",
+        "dotnet 7.0"
+    ],
+    "identity": "ConsoleAppDI",
+    "name": "Console app with DI and logging",
+    "description": "Custom console app template with boiler plate for DI and logging",
+    "shortName": "ConsoleApp",
+    "sourceName": "ConsoleApp",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+}
